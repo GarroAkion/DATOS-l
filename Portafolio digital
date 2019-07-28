@@ -1,12 +1,175 @@
 Primer clase:
 
-Se realizo una actividad de presentacion del grupo en la cual
+-Se realizo una actividad de presentacion del grupo en la cual
 se realizaron una serie de preguntas para conocer un poco sobre
 cada uno de los estudiantes y el profesor.
 
-
-Despues se pasaron unas listas de asistencia y de que aceptabamos
+-Despues se pasaron unas listas de asistencia y de que aceptabamos
 los terminos para la recoleccion de quices y otras para la certificacion.
 
+-Se explicaron los rubros de evaluacion y la forma en la que se iba a trabajar.
 
-Se explicaron los rubros de evaluacion y la forma en la que se iba a trabajar.
+Segunda Clase:
+
+                                Programacion Orientada a Objetos
+
+Que es un objeto?
+
+Algo tangible
+tiene caracteristicas
+puede realizar acciones
+tiene atributos
+tiene comportamiento
+
+Importante:
+
+Identificar objetos
+Identificar caracteristicas
+Identificar las relaciones que hay entre ellos
+
+Hay que tener claro que:
+
+Un carro puede ser un objeto pero puerta no es un atributo 
+puerta pasa a ser un sub-objeto de carro
+ya que un atributo es variable y se le asigna un valor a este 
+si dicen 4 puertas del carro si seria un atributo ya que tiene un valor numerico
+
+
+
+                              Paradigma
+
+Forma en la que se puede dar solucion a problemas con la creacion de software
+Estilo fundamental de programacion 
+Forma de construir estructuras y elementos de los programas
+Es como el lenguaje ve al mundo: (A continuacion se explicara el significado)
+
+Se refiera a que hay diferentes paradigmas por los cuales se resuelven los problemas por medio de objetos o funciones
+dependiendo del paradigma en el que se este trabajando.
+
+
+
+
+Tipos de paradigma:
+
+Funcional: Utiliza funciones para resolver los problemas 
+
+Ejemplos:
+Scheme
+Lisp 
+F#
+
+
+
+Imperativo: Utiliza estructuras para resolver problemas
+
+Ejemplos:
+C
+C++
+PHP
+
+Logico: Utiliza reglas para resolver problemas
+
+Ejemplos:
+Prolog
+
+Orientado a objetos: utiliza objetos para la solucion de problemas
+
+Ejemplos:
+Java
+C++
+C#
+SmallTalk
+
+
+
+
+Analizar  --------------------->
+Diseñar   --------------------->  TODO ESTO A PARTIR DE OBJETOS 
+Construir --------------------->  
+
+
+
+
+
+                                Conceptos relacionados a programacion orientada a objetos
+
+Abstraccion: Es una representacion no exacta de la realidad.
+
+Encapsulacion
+
+Clases
+
+Atributos
+
+Metodos
+
+Instancia
+
+Herencia
+
+Poliformismo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
