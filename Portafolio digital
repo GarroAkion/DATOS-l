@@ -95,15 +95,29 @@ Construir --------------------->
 
 Abstraccion: Es una representacion no exacta de la realidad.
 
-Encapsulacion
 
-Clases
 
-Atributos
 
-Metodos
 
-Instancia
+
+
+
+
+Tercera clase: Continuamos con la conceptualizacion de los conceptos relacionados con la programacion orientada a objeto
+
+Encapsulacion: Propiedad de ocultar informacion para simplificar o facilitar.
+
+Clases: Es un molde o plantilla para la creacion de diferentes objetos.
+Por ejemplo: Crear cupcakes.
+Siempre vamos a utilizar el mismo molde pero el resultado puede variar en muchas maneras.
+
+Atributos: Es un elemento o espacios en memoria que su valor puede cambiar
+
+Metodos:Las operaciones que nos permiten cambiar o interactuar con los atributos de una clase
+
+Instancia: Proceso en el cual se puede crear objetos o instancias a traves de una clase.
+Por otra parte un objeto es lo mismo que instancia.
+"El cambio en una instancia no cambia la otra son totalmente independiente"
 
 Herencia
 
